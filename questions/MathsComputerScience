@@ -1,0 +1,5 @@
+In unary relational operations, SELECT operation is a partition of relation usually classified as...
+  ** horizontal partition
+  * vertical partition
+  * insert partition
+  * delete partition
