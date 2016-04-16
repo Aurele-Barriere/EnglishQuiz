@@ -1,5 +1,11 @@
-In unary relational operations, SELECT operation is a partition of relation usually classified as...
+* In unary relational operations, SELECT operation is a partition of relation usually classified as...
   ** horizontal partition
   * vertical partition
   * insert partition
   * delete partition
+
+* In which type of diagram are operations specified on objects ?
+  * functional diagrams
+  ** class diagrams
+  * attribute diagrams
+  * entity diagrams
