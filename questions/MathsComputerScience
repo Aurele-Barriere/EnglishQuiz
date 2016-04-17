@@ -4,13 +4,13 @@
   * insert partition
   * delete partition
 
-* In which type of diagram are operations specified on objects ?
+* In which type of diagram are operations specified on objects?
   * functional diagrams
   ** class diagrams
   * attribute diagrams
   * entity diagrams
 
-* DNS refers to
+* DNS refers to...
   * Digital Network Service
   ** Domain Name System
   * Disk Numbering System
@@ -19,3 +19,9 @@
   * 1974
   ** 1989
   * 1991
+
+* The letters, "DOS" stand for...
+  * Data Out System
+  * Disk Out System
+  ** Disk Operating System
+  * Data Operating System
