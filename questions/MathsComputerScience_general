@@ -6,3 +6,6 @@
 
 * How is qualified a language in which its abstract syntax tree and its syntax are isomorphic?
   ** Homoiconic
+
+* What is the name of the programming paradigm in wich "A program execution is regarded as a physical model, simulating the behavior of either a real or imaginary part of the world." ?
+  ** Object Oriented Programming
